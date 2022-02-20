@@ -5,5 +5,5 @@ Basically, it takes its standard in, and acts as a server that you can then conn
 
 To use:
 1. run `input | ./sift.py create --path path/to/temp/file | output`
-2. run `./sift.py create --path path/to/temp/file` (needs to be the same path)
+2. run `./sift.py connect --path path/to/temp/file` (needs to be the same path)
 3. use, default is to keep
